@@ -1,15 +1,14 @@
 <!-- HTML to align the image to the left -->
-<img align="left" width="259" src="https://github.com/aafrus/aafrus/blob/main/jackie.png">
+<img align="left" width="300" src="https://github.com/aafrus/aafrus/blob/main/jackie.png">
 <pre>
-  <div align="center"> --- [INFO] ---
+  <div align="center"> --- [INFO] ---  
     
 </pre>
-<div align="center">
-<pre>
+
 
 ```kotlin
 user - [REDACTED]
-   host - [UNAVAILABLE]
+host - [UNAVAILABLE]
  
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit,  
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
