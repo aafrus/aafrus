@@ -10,7 +10,6 @@
 <pre>
 
 ```kotlin
-
 user - [REDACTED]
    host - [UNAVAILABLE]
  
