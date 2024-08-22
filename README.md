@@ -1,6 +1,5 @@
 <!-- HTML to align the image to the left -->
-<img align="left" width="350" src="https://github.com/aafrus/aafrus/blob/main/jackie.png" style="margin-right: 50px; margin-bottom: 50px;"/>
-
+<img align="left" width="350" src="https://github.com/aafrus/aafrus/blob/main/jackie.png">
 <pre>
   <div align="center"> --- [INFO] ---
     
