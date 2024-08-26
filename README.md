@@ -9,9 +9,9 @@ user - [REDACTED]
 host - [UNAVAILABLE]
 status - [SYSTEM IN MAINTENANCE]
 
-ACCESS LEVEL: [Classified]  
-ENCRYPTION: [Active]  
-LAST SYNC: [DATA CORRUPTED]  
+ACCESS LEVEL: Classified  
+ENCRYPTION: Active  
+LAST SYNC: DATA CORRUPTED  
 
 Protocol initiated...  
 Connection to external network: [DISRUPTED]  
